@@ -1,30 +1,28 @@
 ---
 layout: default
-title: "Poemas de Juana Borrero"
+title: "Storytelling Workshop"
 ---
 <html> 
 <head>
-  <title>Poemas de Juana Borrero</title>
+  <title>Storytelling Workshop</title>
 </head>
 <div class="introduction">
-  <img src="{{ site.baseurl }}/assets/images.png" alt="Las niñas" style="text-align: center; max-width: 300px; border-radius: 8px; margin: 20px auto; display: block;">
-  <h1 style="font-weight: bold; color: #800000;">Sobre la poesía de Juana Borrero</h1>
+  <h1 style="font-weight: bold; color: #407EC9;">Description</h1>
 <body>
 <p>
-Teniendo entre catorce y dieciocho años (1891-1896), Borrero publicó sus poemas en periódicos como <i>El Fígaro</i> y <i>La Habana Elegante</i>. Además, publicó su único poemario <i>Rimas</i> en 1895. La poesía de Juana Borrero habla del amor romántico, la amistad y la pasión por la belleza en la adolescencia. 
+Although literature is less popular today, storytelling remains a powerful strategy in a broad range of professional disciplines. In this workshop, we explored how storytelling extends beyond books, blending texts with performance techniques, multimedia expressions, and digital tools. Participants were invited to write poems or short stories using experimental techniques and adapting their work across different media such as performance, drawing, video, or photography. Participants collaborated on the creation of this GitHub-hosted repository of their works.
 </p>
-<small>Cuadro "Las niñas" de Juana Borrero, expuesto en el Museo Nacional de Bellas Artes de Cuba.</small>
 </body>
 </div>
 
 <hr>
 
 <div class="toc">
-  <h2>Poemas</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
+  <h2>writings</h2>
+  <ul class="_texts">
+  {% for item in site._texts %}
 
-    <li class="text-title">
+    <li class="_text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a>
