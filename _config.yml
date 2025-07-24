@@ -1,24 +1,24 @@
 # Built with Jekyll 3.6.0
 
 # Site Metadata
-title:               "Poesía de Juana Borrero"
-tagline:             "(1877-1896)"
-description:         "Una colección de los poemas de Juana Borrero, pintora y poeta modernista cubana."
-url:                 "https://edicionesdereparto.github.io"
-baseurl:             "/juanaborrero" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
+title:               "Pathways to Arts and Humanities"
+tagline:             "Summer 2025"
+description:         "A collection of writings by high school students enrolled in the workshop Storytelling Today: Literature Beyond Books."
+url:                 "https://ypah-s25.github.io"
+baseurl:             "/storytelling" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
 
 # About/Contact Information
 author:
   name:              "Luis Prieto"
-  url:               "https://edicionesdereparto.github.io/juanaborrero"
-  email:             "lpriet9@gmail.com"
+  url:               "https://ypah-s25.github.io/storytelling"
+  email:             "luis.prieto@yale.edu"
 
 # Color Scheme for the Theme (Options: red, orange, magenta, cyan, blue, brown)
-color-scheme:        
+color-scheme: blue        
 
 # Permalinks Configuration
 permalink: pretty
-permalink:           "/:juana/:poemas/" 
+permalink:           "/:ypah-s25/:storytelling/" 
 
 # Site Encoding
 encoding:            "utf-8"
