@@ -28,4 +28,4 @@ source: Workshop
 <p>TOM AND DAVE</p>
 <p>we should leave.</p>
 <p>They walk back to the van, slowly taking in the realization that their senior coworker is dead. Not a single tear nor peep. They enter the back of the van, turn the lights off and close the door. They walk around to the front of the van and start to drive off.</p>
-<p>is this fire?</p><input type="checkbox"name=1 value=1>
+<p>is this fire?</p> yes<input type="checkbox"name=1 value=1> no<input type="checkbox"name=1 value=1>
