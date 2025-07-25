@@ -25,3 +25,6 @@ Julia is an incoming sophomore at Amity high school. In her free time, she enjoy
 
 <p><strong>Ada Akdag</strong><br>
 Ada Akdag is a rising junior at West Haven High School in West Haven, CT. Her passion for creative writing dates back to the second grade, when she was introduced to poetry. Aside from her passion for creative writing, she enjoys reading classics such as George Orwell’s 1984, Jane Austen’s Pride and Prejudice, and Sylvia Plath’s The Bell Jar, crocheting, watching classic films, and volunteering in her local community. She is an active volunteer with Save the Sound and Loaves and Fishes in New Haven. </p>
+
+<p><strong>Luca Ferranti</strong><br>
+Luca Ferranti is a rising senior at Wilbur Cross High School in New Haven Connecticut. He’s  involved in many activities and clubs in and out of school like: Football, Marching Band, Concert band, National Honors Society, and Boy Scouts. He aspires to gain a history major in college and attend law school afterwards. Luca’s favorite movie is Star Wars Revenge of the Sith and his favorite hobby is hiking in the woods. 
