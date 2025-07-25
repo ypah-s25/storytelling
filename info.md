@@ -14,3 +14,6 @@ My name is Ivana Torres and I'm 15 years old. I'm an upcoming sophomore and a go
 
 <p><strong>Jordan Smith</strong><br>
 <p></p>Jordan Smith is a rising senior at Metropolitan Business Academy. She’s a great enjoyer of all things retro and frilly. In her free time, she can be found obsesing over The Beatles, reading a thick book, or watching a fifty year old movie. Foolishly, she hopes to be a polymath someday. Jordan lives in East Haven and hopes to survive college applications enough to crawl into a four year university in her home state of Connecticut.</p>
+
+<p><strong>Julia Lenois</strong><br>
+Julia is an incoming sophomore at Amity high school. In her free time, she enjoys writing silly prompts, reading creepy, fictional stories, painting and drawing and going to new places. She enjoys spending time with friends and family doing miscellaneous things, but equally is thrilled to be reading in solitude with her cat on her lap and dog at her feet. </p>
