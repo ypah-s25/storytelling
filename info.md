@@ -22,3 +22,6 @@ Julia is an incoming sophomore at Amity high school. In her free time, she enjoy
 <p>Anna Muench Nasrallah is a rising sophomore at Wilbur Cross she also does ECA for creative writing. Outside of school she enjoys art, writing, and volleyball. She has been playing volleyball for almost a year and ½ now and is hoping to play for the Cross volleyball team this season. Anna has two cats called Anya and Zeus as well as two older siblings.</p>
 <p><strong>DEVON</strong></p>
 <p>This devon guy is just here dont mind him honestly</p>
+
+<p><strong>Ada Akdag</strong><br>
+Ada Akdag is a rising junior at West Haven High School in West Haven, CT. Her passion for creative writing dates back to the second grade, when she was introduced to poetry. Aside from her passion for creative writing, she enjoys reading classics such as George Orwell’s 1984, Jane Austen’s Pride and Prejudice, and Sylvia Plath’s The Bell Jar, crocheting, watching classic films, and volunteering in her local community. She is an active volunteer with Save the Sound and Loaves and Fishes in New Haven. </p>
