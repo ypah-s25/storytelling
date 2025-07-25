@@ -11,3 +11,6 @@ Monica is a rising junior at Amity. She chose to take the Storytelling class to 
 
 <p><strong>Ivana Torres</strong><br>
 My name is Ivana Torres and I'm 15 years old. I'm an upcoming sophomore and a goal of mine is getting better at writing stories. Reading books used to be a big hobby for me and my love for books still stands, although I don't read as frequently as before. I hope to end up expanding my knowledge by reading even more and becoming a better writer by the end of it.</p>
+
+<p><strong>Jordan Smith</strong><br>
+<p></p>Jordan Smith is a rising senior at Metropolitan Business Academy. She’s a great enjoyer of all things retro and frilly. In her free time, she can be found obsesing over The Beatles, reading a thick book, or watching a fifty year old movie. Foolishly, she hopes to be a polymath someday. Jordan lives in East Haven and hopes to survive college applications enough to crawl into a four year university in her home state of Connecticut.</p>
