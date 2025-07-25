@@ -17,3 +17,6 @@ My name is Ivana Torres and I'm 15 years old. I'm an upcoming sophomore and a go
 
 <p><strong>Julia Lenois</strong><br>
 Julia is an incoming sophomore at Amity high school. In her free time, she enjoys writing silly prompts, reading creepy, fictional stories, painting and drawing and going to new places. She enjoys spending time with friends and family doing miscellaneous things, but equally is thrilled to be reading in solitude with her cat on her lap and dog at her feet. </p>
+
+<p><strong>Anna Muench-Nasrallah</strong></p>
+<p>Anna Muench Nasrallah is a rising sophomore at Wilbur Cross she also does ECA for creative writing. Outside of school she enjoys art, writing, and volleyball. She has been playing volleyball for almost a year and ½ now and is hoping to play for the Cross volleyball team this season. Anna has two cats called Anya and Zeus as well as two older siblings.</p>
