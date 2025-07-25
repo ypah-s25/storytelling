@@ -9,5 +9,5 @@ Monica is a rising junior at Amity. She chose to take the Storytelling class to 
 </p>
 <b> Molly McGurk </b>  is a student at James Hillhouse Highschool and the Educational Center for the Arts in the graduating class of 2026. She is intensely passionate with her love of the arts and humanities, filling up her time with a plethora of things in the field. Head editor of Meowzine, issue one available to you soon! See @meowzineoffcial on instagram, along with many other projects and  pieces filling her portfolio. She hopes to continue on to university in order to pursue a career in the arts. 
 
-<p>strong>Ivana Torres</strong><br>
+<p><strong>Ivana Torres</strong><br>
 <p>My name is Ivana Torres and I'm 15 years old. I'm an upcoming sophomore and a goal of mine is getting better at writing stories. Reading books used to be a big hobby for me and my love for books still stands, although I don't read as frequently as before. I hope to end up expanding my knowledge by reading even more and becoming a better writer by the end of it.</p>
