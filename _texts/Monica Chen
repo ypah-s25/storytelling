@@ -4,6 +4,15 @@ title: euphoria
 author: Monica Chen
 source: Workshop 
 ---
+---
+layout: poem
+title: euphoria
+author: Monica Chen
+editor: Juan Perez 
+source: Workshop 
+---
+
+<div class="poem">
 breathless<br>
 a relic of light<br>
 surrounded by a haze of sound<br>
@@ -16,12 +25,14 @@ from nothing
 
 <br>
 
+<div class="poem">
 rhythmic, it sounds<br>
 like a heartbeat
 </div>
 
 <br>
 
+<div class="poem">
 the piano<br>
 it does not sing<br>
 it weeps<br>
@@ -33,6 +44,7 @@ by your touch
 
 <br>
 
+<div class="poem">
 from your fingertips<br>
 the melody pours out<br>
 like blood from a wound<br>
@@ -50,6 +62,7 @@ gone
 
 <br>
 
+<div class="poem">
 in that moment my breath has left me<br>
 my mind and soul<br>
 are no longer with me<br>
@@ -61,6 +74,7 @@ until they eclipse the light
 
 <br>
 
+<div class="poem">
 the final note fades into dissonance<br>
 my soul drifting with it<br>
 slipped free from my body<br>
@@ -69,6 +83,7 @@ into the chamber
 
 <br>
 
+<div class="poem">
 lifted away<br>
 with the music<br>
 drifting into the stars
