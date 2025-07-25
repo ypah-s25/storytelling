@@ -1,5 +1,4 @@
 ---
 layout: page
-title: Reflections
+title: Author Bios
 ---
-add reflections here 
