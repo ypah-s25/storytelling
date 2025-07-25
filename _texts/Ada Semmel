@@ -5,7 +5,7 @@ author: Ada Semmel
 editor: Ada Semmel
 source: Workshop 
 ---
-<p> The waxy smell of orange-yellow
+<font face= serif> <p> The waxy smell of orange-yellow
 <br> A princess band-aid that seems to always be on my knee
 <br>The soapy taste of bottled bubbles
 <br>No alphabet or addition for a whole
@@ -20,6 +20,6 @@ source: Workshop
 <br>Taking a lunch break with the city’s scorching heat and an iced matcha
 <br>My weekends spent jumping into a cool lake
 <br>No snowfalls or sniffles for a whole
-<br>Summer</p>
+<br>Summer</p> </font>
 
 
