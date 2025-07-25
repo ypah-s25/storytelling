@@ -20,3 +20,4 @@ Julia is an incoming sophomore at Amity high school. In her free time, she enjoy
 
 <p><strong>Anna Muench-Nasrallah</strong></p>
 <p>Anna Muench Nasrallah is a rising sophomore at Wilbur Cross she also does ECA for creative writing. Outside of school she enjoys art, writing, and volleyball. She has been playing volleyball for almost a year and ½ now and is hoping to play for the Cross volleyball team this season. Anna has two cats called Anya and Zeus as well as two older siblings.</p>
+<p>This devon guy is just here dont mind him honestly</p>
