@@ -6,7 +6,7 @@ editor: Devon
 source: Workshop 
 ---
 <p>ext. porch - night time</p>
-<p><body text=DC01CA>Dave and Tom are sitting on the porch frightened about what they just saw.</p>
+<p><body style="color:DC01CA;>Dave and Tom are sitting on the porch frightened about what they just saw.</p>
 <p><body text=01DC13>TOM(very quiet and out of breath)</p>
 <p>I've never seen a ghost do THAT before</p>
 <p><body text=015CDC>DAVE(very quiet)</p>
