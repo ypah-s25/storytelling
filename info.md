@@ -27,3 +27,5 @@ title: Authors
 <p><strong>Ace Anderson</strong> is a rising senior at the Cooperative School for Arts and Humanities. She is a proud dog mom, an avid reader, and a semi-proficient cook. She hopes to study history and archaeology, as it is her dream to work in museums. In line with her interest in the humanities, she enjoys working on arts and fundraising efforts to better her community.</p>
 
 <p><strong>Emma Mathew</strong> is a rising sophore at Amity High School. She enjoys any activity with a creative aspect, creating music, drawings, paintings, and clay sculptures. Emma dreams of pursuing law, participating in her school's Mock Trail and Model UN clubs. She took this class in hopes of creating more thoughtful poetry and she has overall had a great experience!
+
+<p><<strong> Aaren Dilt Dwellings</strong> is a new author that goes by an alias. She is a student at common ground High school. She like cats & creatinmh fantasy storys.
