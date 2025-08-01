@@ -21,3 +21,5 @@ title: Authors
 <p><strong>Luca Ferranti</strong> is a rising senior at Wilbur Cross High School in New Haven Connecticut. He’s involved in many activities and clubs in and out of school like: Football, Marching Band, Concert band, National Honors Society, and Boy Scouts. He aspires to gain a history major in college and attend law school afterwards. Luca’s favorite movie is Star Wars Revenge of the Sith and his favorite hobby is hiking in the woods. 
 
 <p><strong>Michia Briscoe</strong> is a rising senior in New Haven, CT at Amistad High School. She loves to create in various forms including writing, crocheting, drawing, and more. She loves spending time with her friends, and most of all loves her family. She hopes to be a lawyer after pursuing either Political Science, or Business Administration so as to make a way to give back to her loved ones, and her community. </p>
+
+<p><strong>Sahil Lemar</strong>strong> is a rising sophmore at Wilbur Cross. Outside of school he likes Liverpool and playing Hockey.</strong></p>
