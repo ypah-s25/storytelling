@@ -23,3 +23,5 @@ title: Authors
 <p><strong>Michia Briscoe</strong> is a rising senior in New Haven, CT at Amistad High School. She loves to create in various forms including writing, crocheting, drawing, and more. She loves spending time with her friends, and most of all loves her family. She hopes to be a lawyer after pursuing either Political Science, or Business Administration so as to make a way to give back to her loved ones, and her community. </p>
 
 <p><strong>Sahil Lemar</strong> is a rising sophmore at Wilbur Cross. Outside of school I like Liverpool and playing Hockey.</strong></p>
+
+<p><strong>Ace Anderson</strong> is a rising senior at the Cooperative School for Arts and Humanities. She is a proud dog mom, an avid reader, and a semi-proficient cook. She hopes to study history and archaeology, as it is her dream to work in museums. In line with her interest in the humanities, she enjoys working on arts and fundraising efforts to better her community.</p>
