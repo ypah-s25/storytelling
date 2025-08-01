@@ -22,4 +22,4 @@ title: Authors
 
 <p><strong>Michia Briscoe</strong> is a rising senior in New Haven, CT at Amistad High School. She loves to create in various forms including writing, crocheting, drawing, and more. She loves spending time with her friends, and most of all loves her family. She hopes to be a lawyer after pursuing either Political Science, or Business Administration so as to make a way to give back to her loved ones, and her community. </p>
 
-<p><strong>Sahil Lemar</strong> is a rising sophmore at Wilbur Cross. Outside of school he likes Liverpool and playing Hockey.</strong></p>
+<p><strong>Sahil Lemar</strong> is a rising sophmore at Wilbur Cross. Outside of school I like Liverpool and playing Hockey.</strong></p>
